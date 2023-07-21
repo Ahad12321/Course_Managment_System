@@ -1,5 +1,7 @@
 # Course_Managment_System
 Bu Apllication Sizə kursunuzu daha asan idarə etməyə kömək göstərəcək.Applicationa daxildir;kursuma qeydiyyatda olan tələbələrin qeyd edilməsi hansi kurslar var onların əlavə edilməsi xərcləmələrin və ödənişlərin qeydiyyatının aparılması və s.
+Photo from Swagger
+![2023-07-21](https://github.com/Ahad12321/Course_Managment_System/assets/121574943/1f56ef98-c2e2-4b5e-bb1d-764d830536ae)
 # Course Management System
 
 ## Description
